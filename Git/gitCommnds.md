@@ -30,6 +30,12 @@ You can view the global, local or system level configs by adding the following p
 
 `git config user.email`
 
+### Resetting users for git
+
+In windows, you will have to manually go and reset the git credentials from `Manage your credentials` if you have used web browser for authentication. Search for `Manage your credentials` in the settings, find the git config and reset the data.
+
+Next time you try to login, it will ask to enter your credentials.
+
 ### Setting Up User Configuration
 
 `git config --global user.name "[git username]"`
