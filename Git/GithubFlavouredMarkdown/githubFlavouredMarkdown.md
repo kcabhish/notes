@@ -59,6 +59,14 @@ This Markdown file contains examples of various Markdown syntax elements support
 ```
 
 ## Code Blocks
+
+To add code blocks, enclose the code with 
+
+\`\`\` 
+
+{code goes here} 
+
+\`\`\`
 ```
 code goes here
 ```
@@ -103,3 +111,25 @@ You can use emoji codes directly like :smile: which will render as 😊
    This is an HTML abbreviation<abbr title="Hypertext Markup Language">HTML</abbr>.
    ```
    This is an HTML abbreviation <abbr title="Hypertext Markup Language">HTML</abbr>.
+
+## Footnotes
+
+Footnotes are not supported in the Markdown spec but are supported in [GFM](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+```
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+```
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
