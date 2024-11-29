@@ -8,5 +8,6 @@
 |DDoS| Distributed Denial Of Services|
 |ERP| Enterprise Resource Planning Software |
 |CRM| Customer Relationship Management |
+|REPL| Read Eval Print Loop|
 
 
