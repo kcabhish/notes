@@ -152,3 +152,10 @@ namedLoop@ for (i in 1..10) {
     println("$i $j");
 }
 ```
+
+### Qualified names vs unqualified names
+
+in java/kotlin the qualified names are the methods that are called with the full package name.
+
+for example `return java.util.Date()` is a qualified name.
+where as `return Date()` is a unqualified name. To use unqualified names, the pacakge must be imported.
