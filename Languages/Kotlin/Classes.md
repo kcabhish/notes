@@ -58,6 +58,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+## [Declaring Properties](https://kotlinlang.org/docs/properties.html#declaring-properties)
+
 ## [Inheritance](https://kotlinlang.org/docs/inheritance.html#overriding-methods)
 
 For a class to be inheriteted by other classes, the base class needs to include the open keyword. Anything that needs to be overwritten in the base class should be prefixed by the keyword `open`
