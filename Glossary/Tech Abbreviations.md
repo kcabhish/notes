@@ -9,5 +9,6 @@
 |ERP| Enterprise Resource Planning Software |
 |CRM| Customer Relationship Management |
 |REPL| Read Eval Print Loop|
+|SAM| Single Abstract Method/Interface |
 
 
