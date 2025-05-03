@@ -15,7 +15,7 @@ What is Lombok and Why we need lombok?
 https://projectlombok.org/#
 - its build with Java.
 - To avoid boilerplate code.
-- getters, setters and constructors are easiy to have with just annotations.
+- getters, setters and constructors are easy to have with just annotations.
 - can be used in any java application
 
 # Lombok Annotations
