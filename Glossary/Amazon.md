@@ -25,3 +25,21 @@
 |CodeBuild| AWS CodeBuild | Fully managed build service for compiling source code and running tests. |
 |CodeDeploy| AWS CodeDeploy | Automates application deployments to various compute services like EC2, Lambda, and ECS. |
 |CloudTrail| AWS CloudTrail | Enables governance, compliance, and auditing by logging account activity and API calls. |
+
+
+## Most Commonly Used AWS Services
+
+| Service | Usage Category | Why It's Popular |
+|---|---|---|
+|S3 (Simple Storage Service)| Storage | Durable, highly available object storage used by nearly all AWS customers. |
+|EC2 (Elastic Compute Cloud)| Compute | Core service for running virtual machines, supporting a wide range of applications. |
+|Lambda| Compute / Serverless | Popular for event-driven architectures and cost-effective, scalable execution. |
+|RDS (Relational Database Service)| Database | Simplifies deployment and scaling of relational databases like MySQL and PostgreSQL. |
+|VPC (Virtual Private Cloud)| Networking | Foundation for secure networking, required for most AWS deployments. |
+|IAM (Identity and Access Management)| Security | Central to managing users, roles, and permissions across all AWS services. |
+|CloudWatch| Monitoring | Default monitoring tool for logs, metrics, and alarms, deeply integrated with AWS services. |
+|CloudFormation| Infrastructure as Code | Widely adopted for automating cloud resource provisioning and management. |
+|ECS/EKS| Containers | Increasingly used for containerized application deployment and orchestration. |
+|CloudFront| CDN | Frequently used with S3 or web applications for fast content delivery. |
+
+

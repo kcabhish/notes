@@ -11,5 +11,6 @@
 |REPL| Read Eval Print Loop|
 |SAM| Single Abstract Method/Interface |
 |RBAC| Role-Based Access Control |
+|GDPR| General Data Protection Regulation |
 
 
