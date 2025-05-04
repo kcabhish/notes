@@ -10,7 +10,7 @@ Micro front-end architecture is a modern approach to front-end development that 
 2. **Technology Agnostic**: Different micro front-ends can use different frameworks or technologies, provided they conform to agreed-upon standards for integration.
 3. **Decentralized Development**: Teams can independently build, test, and deploy their micro front-end components without coordinating with other teams.
 4. **Composable UI**: The application UI is composed of multiple micro front-ends, which are stitched together at runtime.
-
+![microfrontend2](./assets/microfrontend2.png)
 ---
 
 ### Benefits:
@@ -20,6 +20,8 @@ Micro front-end architecture is a modern approach to front-end development that 
 3. **Maintainability**: Smaller, isolated codebases are easier to maintain and debug.
 4. **Parallel Development**: Multiple teams can work on the same application simultaneously without stepping on each other’s toes.
 5. **Incremental Updates**: Individual micro front-ends can be updated independently without affecting the entire application.
+
+![microfrontend1](./assets/microfrontend1.png)
 
 ---
 
