@@ -50,4 +50,3 @@ Micro front-end architecture is a modern approach to front-end development that 
 - Applications that need to be incrementally migrated from legacy systems.
 - Scenarios where agility, team autonomy, and scalability are top priorities.
 
-Would you like me to dive deeper into any of these aspects or help with a practical example?
