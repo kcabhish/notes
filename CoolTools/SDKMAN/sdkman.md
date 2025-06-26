@@ -2,7 +2,7 @@
 
 Source: https://chatgpt.com/c/6809a42b-653c-8004-8990-b906a1dcb07c
 
-## ✅ 1. Install SDKMAN!
+##  1. Install SDKMAN!
 
 Open your terminal and run:
 

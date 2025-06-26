@@ -5,7 +5,7 @@ The `Set` object in JavaScript lets you store unique values. Below is a list of 
 
 ---
 
-## ✅ 1. `new Set()`
+##  1. `new Set()`
 Creates a new Set instance.
 
 ```js
@@ -15,7 +15,7 @@ console.log(set);  // Set(3) {1, 2, 3}
 
 ---
 
-## ✅ 2. `.add(value)`
+##  2. `.add(value)`
 Adds a new value to the Set.
 
 ```js
@@ -27,7 +27,7 @@ console.log(set);  // Set(2) {1, 2}
 
 ---
 
-## ✅ 3. `.has(value)`
+##  3. `.has(value)`
 Checks if a value exists in the Set.
 
 ```js
@@ -38,7 +38,7 @@ set.has(5);  // false
 
 ---
 
-## ✅ 4. `.delete(value)`
+##  4. `.delete(value)`
 Removes a value from the Set.
 
 ```js
@@ -49,7 +49,7 @@ console.log(set);  // Set(2) {1, 3}
 
 ---
 
-## ✅ 5. `.clear()`
+##  5. `.clear()`
 Removes all elements from the Set.
 
 ```js
@@ -60,7 +60,7 @@ console.log(set);  // Set(0) {}
 
 ---
 
-## ✅ 6. `.size`
+##  6. `.size`
 Returns the number of elements in the Set.
 
 ```js
@@ -70,7 +70,7 @@ console.log(set.size);  // 3
 
 ---
 
-## ✅ 7. Iterating with `for...of`
+##  7. Iterating with `for...of`
 
 ```js
 const set = new Set(["a", "b", "c"]);
@@ -81,7 +81,7 @@ for (const item of set) {
 
 ---
 
-## ✅ 8. Convert Set to Array
+##  8. Convert Set to Array
 
 ```js
 const set = new Set([1, 2, 3]);
@@ -90,7 +90,7 @@ const arr = [...set];  // [1, 2, 3]
 
 ---
 
-## ✅ 9. Convert Array to Set (remove duplicates)
+##  9. Convert Array to Set (remove duplicates)
 
 ```js
 const arr = [1, 2, 2, 3];
@@ -99,7 +99,7 @@ const uniqueSet = new Set(arr);  // Set(3) {1, 2, 3}
 
 ---
 
-## ✅ 10. Set Operations (Union, Intersection, Difference)
+##  10. Set Operations (Union, Intersection, Difference)
 
 ### Union
 

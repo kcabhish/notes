@@ -5,7 +5,7 @@ Tags in Git help you mark important points in your project, like releases (`v1.0
 
 ---
 
-## ✅ Step 1: Make Sure You're in Your Git Project
+##  Step 1: Make Sure You're in Your Git Project
 
 ```bash
 cd path/to/your/project
@@ -130,7 +130,7 @@ The commit stays in the history, accessible by its hash or if other tags/branche
 
 ---
 
-## ✅ Summary
+##  Summary
 
 - Tags mark specific commits.
 - You can create tags for current or past commits.
