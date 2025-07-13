@@ -8,3 +8,6 @@ logging.level.org.springframework = debug; // add this line
 ```
 
 This is a handy way to debug and check the beans registered for the spring boot
+
+---
+

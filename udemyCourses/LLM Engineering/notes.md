@@ -27,3 +27,8 @@
 
 - From the project root, run `conda env create -f environment.yml` (This will take about 10 min)
 - `conda activate llms` (This needs to be executed every time you want to start the environment)
+
+6. Running Jupyter lab
+
+- `conda activate llms` (if the env is not running already)
+- `jupyter lab`
