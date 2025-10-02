@@ -19,6 +19,11 @@
 - SQLite Viewer
 - [Emmet](https://code.visualstudio.com/docs/editor/emmet) This comes preinstalled with VSCode.
 - Prettier
+- Icons
+- Live Server
+- Jest
+- mdx
+- SQLite Viewer
 
 ## How to make VS code terminal take the full width
 
@@ -31,3 +36,19 @@
 
 - If using prettier, set the default formatter to prettier. Go to settings and search for default formatter. And set the value to prettier.
 - Enable `Format On Save`. This will automatically format the docs once you save.
+
+## Enable Sticky Scroll
+
+- Open Settings `ctrl + ,` (or `cmd + ,`)
+- "sticky scroll"
+- Editor: Sticky Scroll Enabled
+
+## Open Link Command
+
+The simplest way to debug a webpage is through the `Debug: Open Link` command
+
+```
+Enter ctrl+shift+p
+type > debug: open link
+http://localhost:3000
+```
