@@ -24,3 +24,9 @@
 | Site                | Description        |
 | ------------------- | ------------------ |
 | https://pokeapi.co/ | Fetch Pokemon data |
+
+# Rules and Regulations
+
+|Site| Description |
+|---|---|
+|https://digital.gov/resources/delivering-digital-first-public-experience|Requirements for delivering a digital-first public experience|
