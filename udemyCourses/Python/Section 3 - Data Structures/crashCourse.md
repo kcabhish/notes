@@ -1,7 +1,19 @@
 # Python Revision
 
-## Variable Declaration
+If you are running the `jupyter Notebook` locally the contents are available in http://localhost:8888/notebooks/Refactored_Py_DS_ML_Bootcamp-master/01-Python-Crash-Course/01-Python%20Crash%20Course.ipynb? 
 
+## Data Types In Python
+
+- Numbers
+- Strings
+- Printing
+- Lists
+- Dictionaries
+- Booleans
+- Tuples
+- Sets
+
+## Variable Declaration
 
 ```Python
 x= 12
@@ -34,6 +46,8 @@ print(sampleString[:3]) # abc
 print(sampleString[3:6])  # def
 ```
 
+# [Data Structures](./pythonDataStrucutres.md)
+
 ## List || Array
 
 Mutable: Lists can be modified after creation. Elements can be added, removed, or changed.
@@ -63,3 +77,47 @@ A function needs to return multiple values. Python will automatically pack these
 - The size of the collection is dynamic and will change during the program's execution.
 - You need to sort or otherwise manipulate the order of the elements.
 - You are storing a homogeneous collection of items, and the order is important but not rigidly fixed by type.
+
+# Dictionaries
+
+Dictionaries are key value pairs similar to JSON or associative arrays.
+
+```
+d = {'key1':'item1','key2':'item2'}
+```
+
+# Iterations
+
+## For Loop
+
+```
+seq = [1,2,3,4,5,6]
+for jelly in seq:
+    print(jelly)
+```
+
+## List Comprehenson
+```
+out = []
+for item in x:
+    out.append(item**2)
+print(out)
+```
+The above code can be written as the following using list comprehenson
+```
+[item**2 for item in x]
+```
+
+# Functions
+
+```
+def sum(param1,param2)
+    """
+    This is a way to add documentation in python by using 3x." 
+    Pressing shift + tab gives this documentation in jupyter notebook
+    """
+    print(num1+num2)
+
+sum(2+4) # calling function
+sum # gives the type of function
+```
