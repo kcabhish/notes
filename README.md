@@ -83,12 +83,6 @@ Feel free to reach out (via GitHub) if you’d like to discuss structure, conten
 
 ---
 
-## ⚖️ License
-
-_(If you have a license, mention it here — or decide one, e.g., MIT, CC-BY, etc.)_
-
----
-
 ## 📌 Future Enhancements
 
 Some ideas to make this even more powerful:
