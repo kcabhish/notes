@@ -6,10 +6,26 @@ If you want to check the logs from other branch you can use the following comman
 `git log <branch>`
 
 logs by user
-`git log --author="akc"`
+`git log --author="batman"`
+
+logs by online
+`git log --author="robin" --oneline`
+
+show file changes for each commit
+`git log --stat`
+
+Filter commits by message keyword
+`git log --grep="feat"`
 
 check by tags
 `git log --tags="v*"`
+
+Filter by date flags
+--since="2024-01-01" -> Filter by date
+--until="2024-12-31" -> Upper bound date
+```
+git log --author="Bruce Wayne" --since="2025-01-01" --until="2025-11-04" --oneline --stat
+```
 
 ## git configs
 
