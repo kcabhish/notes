@@ -5,3 +5,11 @@
 - It excels in performance and productivity.
 - It also has built-in visualization features.
 - It can work with data from a wide variety of sources.
+- its also called python's excel
+
+## Installation
+
+```
+conda install pandas
+pip install pandas
+```
