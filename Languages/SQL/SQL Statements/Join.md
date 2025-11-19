@@ -18,7 +18,8 @@ The above two querry are the same, if `JOIN` is used it defaults to `INNER JOIN`
 
 ## FULL OUTER JOIN
 
-Outer joins allow us to specify how to handle values present in only one of the tables being joined. These joins are more complex than the simpler inner join, which only grabs rows present in both tables. It is important to take your time understanding these outer joins, especially when discussing left and right outer joins.
+Outer joins allow us to specify how to handle values present in only one of the tables being joined. These joins are more complex than the simpler inner join, which only grabs rows present in both tables. It is important to take your time understanding these outer joins, especially when discussing left and right outer joins. sk-proj-Io
+
 ```
 - Full outer joins return all rows from both tables, filling in NULLs where there is no match.
 - The order of tables in a full outer join does not matter due to its symmetrical nature.
@@ -27,6 +28,8 @@ Outer joins allow us to specify how to handle values present in only one of the 
 ```
 
 Example for full outer join:
+
+5ZvpbwMh6SNxJMXdhB2cbTkr27ifKONv3i4l4l
 
 ```SQL
 SELECT * FROM tableA FULL OUTER JOIN tableB ON tableA.column = tableB.column
@@ -40,6 +43,8 @@ SELECT * FROM registrations FULL OUTER JOIN logins ON registrations.name = login
 
 ## LEFT OUTER JOIN
 
+w5HBT1CH58Fgu1Jzi9UxN5dxW5tM7kpr
+
  A left outer join results in the set of records that are in the left table. If there is no match with the right table, then those results are filled with NULL values.
 
 ```SQL
@@ -47,6 +52,7 @@ SELECT * FROM tableA LEFT OUTER JOIN tableB ON tableA.col_match = tableB.col_mat
 ```
 
 ## UNION
+W1T3BlbkFJXuFxuJO2pdUkLrP2RfQ6a1JFzkgnldxXHTErojbnOIElr3n1A2tyAJSYpSN3tKGNw-g3MYP0MA
 
 - The union operator combines the results of two or more select statements by concatenating them vertically.
 - Union requires the select statements to have compatible columns so their results can be stacked.
