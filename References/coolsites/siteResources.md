@@ -36,3 +36,15 @@
 |Site| Description |
 |---|---|
 |https://matomo.org/| Matomo for analytics, alternative to google analytics|
+
+# Notifications
+
+| Site | Description |
+|---|---|
+|https://pushover.net/|Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!)|
+
+# Hosting Applications
+
+| Site| Description | Additional Details |
+|---|---|---|
+| https://huggingface.co/  | Hosting AI applications  | 
