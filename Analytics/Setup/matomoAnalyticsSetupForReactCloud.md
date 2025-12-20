@@ -264,11 +264,3 @@ With this setup, you now have:
 
 ---
 
-**Next Enhancements (Optional):**
-
-- Typed analytics SDK
-- Custom Matomo dashboards
-- Analytics abstraction layer
-- Feature-level funnels
-- Self-hosted Matomo with custom plugins
-
