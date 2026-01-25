@@ -30,7 +30,7 @@ pip show numpy
 
 ## Numpy arrays
 
-- Numpy arrays essentially come in two flavors: vectors an matrices.
+- Numpy arrays essentially come in two flavors: vectors and matrices.
 - Vectors are strictly 1-d arrays and matcirces are 2-d (matrices can still have only one row or one column)
 
 example
