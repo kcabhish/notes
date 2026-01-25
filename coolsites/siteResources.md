@@ -36,3 +36,4 @@
 |Site| Description |
 |---|---|
 |https://matomo.org/| Matomo for analytics, alternative to google analytics|
+|https://n8n.io/|Flexible AI wokflow automation for technical teams|
