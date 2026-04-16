@@ -42,8 +42,10 @@ This Markdown file contains examples of various Markdown syntax elements support
 
 ## Links
 [Link Text](URL)
+[link text](path/to/file.md)
 ```
 [Link Text](URL)
+[link text](path/to/file.md)
 ```
 
 ## Images
