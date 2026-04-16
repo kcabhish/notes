@@ -45,3 +45,10 @@
 |https://www.anthropic.com/engineering/building-effective-agents | Blog post on building Effective AI Agents|
 |https://huggingface.co/blog/Kseniase/mcp| blog post on MCP|
 
+## Image generating LLMs
+
+|Site| Description |
+|---|---|
+|[DALL-e](https://openai.com/index/dall-e-3/)| Open AI's Image generative tools|
+|[Stable Diffusion](https://stability.ai/stable-image)| image generating AI from stability.ai|
+
