@@ -37,18 +37,14 @@
 |---|---|
 |https://matomo.org/| Matomo for analytics, alternative to google analytics|
 
-# Generative AI/LLMs
+# Notifications
 
-|Site| Description |
+| Site | Description |
 |---|---|
-|https://n8n.io/|Flexible AI wokflow automation for technical teams|
-|https://www.anthropic.com/engineering/building-effective-agents | Blog post on building Effective AI Agents|
-|https://huggingface.co/blog/Kseniase/mcp| blog post on MCP|
+|https://pushover.net/|Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!)|
 
-## Image generating LLMs
+# Hosting Applications
 
-|Site| Description |
-|---|---|
-|[DALL-e](https://openai.com/index/dall-e-3/)| Open AI's Image generative tools|
-|[Stable Diffusion](https://stability.ai/stable-image)| image generating AI from stability.ai|
-
+| Site| Description | Additional Details |
+|---|---|---|
+| https://huggingface.co/  | Hosting AI applications  | 
