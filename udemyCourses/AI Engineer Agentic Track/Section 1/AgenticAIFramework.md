@@ -31,3 +31,14 @@ Design Patterns: It provides a clear explanation of different design patterns th
 Agentic System Implementation: The article stresses the importance of choosing the right framework based on the specific needs of the project, balancing simplicity and power as necessary to meet business requirements.
 
 Guidance for Developers: Throughout the post, there is a focus on empowering developers to understand the architectural choices behind their implementations and how different design patterns can impact performance.
+
+## Evoloving Agent Definition
+
+Sam Altman
+"AI systems that can do work for you independently"
+
+Early 2025 Censensus (Anthropic, Hugging Face, ...)
+AI Systems where an LLM controls the workflow
+
+Common in 2026
+An agent runs tools in a loop to achieve a goal
