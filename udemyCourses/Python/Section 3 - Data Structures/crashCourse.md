@@ -34,6 +34,34 @@ Using the variable assignmnet gives the flexibility to use multiple variables wh
 print ('My number is {one} and my name is {two}. {two} is also the spider man.', format(two='Peter Parker', one=7))
 ```
 
+Introduced in Python 3.6, f-strings are the most readable and efficient way to format strings.
+```python
+"My name is {} and I am {}".format(name, age)
+```
+
+### Positional arguments
+```python
+"{0} is {1} years old".format(name, age)
+```
+
+### Keyword arguments
+```python
+"{name} is {age} years old".format(name=name, age=age)
+```
+
+### Accessing dict values
+```python
+data = {"name": "Abhishek", "age": 30}
+"{name} is {age}".format(**data)
+```
+
+```python
+name = "Abhishek"
+age = 30
+
+result = f"My name is {name} and I am {age} years old."
+```
+
 ## String
 
 ```Python
