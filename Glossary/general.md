@@ -16,4 +16,6 @@
 | EOD | Entry on Duty, End of Day |
 | COG | Continuity Of Government |
 | COOP | Continuity Of Operations Plan |
+| FCPA | Foreign Corupt Practises Act |
+| CSR | Customer Service Representative |
 
