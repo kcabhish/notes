@@ -1,5 +1,15 @@
-from Enemy import *
-enemy = Enemy()
-enemy.type_of_enemy = 'Zombies'
-print(f'{enemy.type_of_enemy} has {enemy.health_points} health points And can do attack of {enemy.attack_damage}')
-enemy.talk()
+
+from enemy import *
+from zombie import *
+from ogre import *
+
+from hero import *
+from weapon import *
+
+from battle import *
+from hero_battle import *
+
+zombie = Zombie(10,2)
+ogre = Ogre(15,3)
+
+battle(zombie, ogre)
