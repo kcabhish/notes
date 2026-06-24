@@ -22,6 +22,7 @@
 4. Open Anaconda terminal
 
 - In Windows search for `Anaconda Powershell Propmt` and navigate to the project folder.
+local path L:\LLMProjects\llm_engineering
 
 5. Setting up the Environment
 
