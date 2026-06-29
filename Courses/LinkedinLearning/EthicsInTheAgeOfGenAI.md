@@ -34,3 +34,12 @@ L -> Listen to users before you start
 I -> Involve customers in decisions
 S -> Share privacy policies
 A -> Audit 
+
+## ETHICS
+
+E -> Executives
+T -> Technology and engineers
+H -> Human Rights Advocates
+I -> Industry experts
+C -> Customers and users
+S -> Society
