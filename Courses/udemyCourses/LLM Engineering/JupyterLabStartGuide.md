@@ -13,7 +13,7 @@ Fully supports Jupyter Notebooks (.ipynb) for writing code, markdown, and visual
 
 # Launch Jupyter Lab
 
-After installingwith pip or conda, run:
+After installing with pip or conda, run:
 ```Python
 jupyter lab
 ```
