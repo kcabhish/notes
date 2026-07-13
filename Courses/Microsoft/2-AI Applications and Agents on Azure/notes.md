@@ -18,3 +18,15 @@ Azure provides four categories of services
 - Resrouce Group
 - Resrouces
 
+## Hosting and Scaling
+
+### Host
+Applications run on computers or environments known as a host. In cloud contexts, a host can be a virtual machine (VM) providing the compute, memory and networking the application needs to execute.
+
+### Scaling
+Scaling your applications means to automtically or manually adjust the amount ofcompute power your app uses. Usually by adding or removing instances.
+
+There are two types of Scaling:
+- Horizontal : Add more instances
+- Vertical : Increase CPU/memory on the existing instance
+
