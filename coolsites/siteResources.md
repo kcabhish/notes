@@ -52,3 +52,8 @@
 |[DALL-e](https://openai.com/index/dall-e-3/)| Open AI's Image generative tools|
 |[Stable Diffusion](https://stability.ai/stable-image)| image generating AI from stability.ai|
 
+## Web Based IDEs
+
+|Site| Description|
+|---|---|
+|[Google Colab](https://colab.research.google.com/#)|Google Colab is a free, browser-based Jupyter Notebook environment that lets you write and execute Python code without any local setup.|
