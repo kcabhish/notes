@@ -24,6 +24,8 @@
 | Site                | Description        |
 | ------------------- | ------------------ |
 | https://pokeapi.co/ | Fetch Pokemon data |
+| https://jsonplaceholder.typicode.com/| Free fake and reliable API for testing and prototyping |
+| https://developer.konghq.com/insomnia/ | Simplify designing, debugging, and testing APIs with Insomnia |
 
 # Rules and Regulations
 
@@ -36,6 +38,7 @@
 |Site| Description |
 |---|---|
 |https://matomo.org/| Matomo for analytics, alternative to google analytics|
+|https://cidr.xyz/| CIDR Calculator for IP addresses|
 
 # Notifications
 
@@ -62,6 +65,7 @@
 |https://n8n.io/|Flexible AI wokflow automation for technical teams|
 |https://www.anthropic.com/engineering/building-effective-agents | Blog post on building Effective AI Agents|
 |https://huggingface.co/blog/Kseniase/mcp| blog post on MCP|
+|https://github.com/abhishekray07/claude-md-templates| Claude MD template|
 
 ## Image generating LLMs
 
