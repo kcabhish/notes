@@ -17,3 +17,13 @@ On windows it should come in by default. For Mac:
 ## Video References:
 
 [Fireship](https://www.youtube.com/watch?v=ifTF3ags0XI&t=198s)
+
+
+## Panel Alignment for Terminal
+
+1. Right click on the termial
+2. Select `align Panel` and select justify.
+
+Or
+
+Open command pallete and type `justify`
