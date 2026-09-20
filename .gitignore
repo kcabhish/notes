@@ -1,5 +1,3 @@
-.vscode
-__pycache__
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -33,9 +31,9 @@ MANIFEST
 venv/
 env/
 ENV/
-导env.bak/
-导venv.bak/
-fastapienv
+env.bak/
+venv.bak/
+fastapienv/
 
 # Testing / coverage
 .tox/
@@ -48,13 +46,18 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
 
 # Local environment variables and secrets
 .env
 *.env
 .venv
 ollamaenv
+.env.local
 secrets.toml
+ollamaenv
 
 # IDEs and editors
 .idea/
@@ -62,4 +65,18 @@ secrets.toml
 *.swp
 *.swo
 .DS_Store
+
+# Keys and credentials
 keys.md
+
+# Poetry / Pipenv
+poetry.lock
+Pipfile.lock
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Flask
+instance/
