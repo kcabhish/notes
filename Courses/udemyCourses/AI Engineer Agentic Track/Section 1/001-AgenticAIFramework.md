@@ -1,16 +1,27 @@
 # Agentic AI Framework
 
-Below are the list of AI agents frameworks discussed in the course.
+## The List of LLMs
+
+- OpenAI: gpt models
+- Anthropic: Claude
+- Google: Gemini
+- DeepSeek AI: DeepSeek V3, DeepSeek R1
+- Groq: Open-source LLMs including Llamma3.3
+- Ollama: local open-source LLMs including Llama3.2
+
+The Vellum leaderboard gives a comparision of costs and performance (https://www.vellum.ai/llm-leaderboard)
+
+## Below are the list of AI agents frameworks discussed in the course.
 
 - Open AI Agents SDK
 - Crew AI
 
-Some complex AI Frameworks (Stepper learning curve)
+## Some complex AI Frameworks (Stepper learning curve)
 
 - LangGraph
 - AutoGen (Microsoft)
 
-Some notable frameworks:
+## Some notable frameworks:
 
 - OpenAI Agents SDK: A framework that simplifies creating agents and is well-suited for industry use.
 - Crew: Known for its user-friendly approach and resembles the agility of other frameworks while maintaining power.
@@ -32,13 +43,3 @@ Agentic System Implementation: The article stresses the importance of choosing t
 
 Guidance for Developers: Throughout the post, there is a focus on empowering developers to understand the architectural choices behind their implementations and how different design patterns can impact performance.
 
-## Evoloving Agent Definition
-
-Sam Altman
-"AI systems that can do work for you independently"
-
-Early 2025 Censensus (Anthropic, Hugging Face, ...)
-AI Systems where an LLM controls the workflow
-
-Common in 2026
-An agent runs tools in a loop to achieve a goal

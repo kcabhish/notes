@@ -12,9 +12,11 @@ Flexible AI workflow automation for technical teams. it is a low code no code to
 [Package Manager: uv](https://docs.astral.sh/uv/getting-started/installation/)
 [ed-donnner gituhub](https://github.com/ed-donner/agents)
 
-## Agents
+## Evoloving Agent Definition
 
-AI agents are programs where LLM ouputs control the workflow.
+"AI systems that can do work for you independently" - Sam Altman
+AI agents are programs where LLM ouputs control the workflow. - Early 2025
+An LLM with Tools in a loop to achieve a goal.
 
 ### Agentic Systems
 
@@ -33,6 +35,10 @@ Anthropic distinguishes two types:
 3. Parallelization: Breaking down tasks and running multiple subtasks concurrently.
 ![routes](./assets/parallelization.png)
 4. Orchestrator-Worker: Complex tasks are broken down dyamically combined without any codes. Everything will be orchstrated by LLMs.
+
+The difference between Parallelization and orchestration are:
+- In paralliation the code handles the coordinator and aggregator. Where as in Orchestration its all done by LLMs.
+- The blue boxes represents the code and yellow LLMs in the diagrams.
 
 ![routes](./assets/orchestratorWorker.png)
 
