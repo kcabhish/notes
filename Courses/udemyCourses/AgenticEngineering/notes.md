@@ -57,3 +57,30 @@ Stage 8:
 
     Agents orchestrate agents
 
+## Evolution of Workflows
+
+2025 Approaches
+
+User for misson critical software, large codebase, highly innovative code
+
+- Micromanage, approve frequent requests
+- Plan, execute, review and test
+- Spec driven development; Turst but verify the llm updates
+
+2026 Approaches
+
+MVPs, new build, risk appetite, boilerplate code
+
+- YOLO 
+- Ralph Loops
+- Multi agent swarms, orchestrate
+
+It is your job to deliver code hat is proven to work.
+
+## How to successful vibe codes
+
+- invest in AGENTS.md
+- Start SIMPLE
+- Work incrementally; test constantly; validate success criteria
+- Don''t get lazy - challenge & demand evidence
+- Handle frustration with style

@@ -66,6 +66,13 @@
 |https://www.anthropic.com/engineering/building-effective-agents | Blog post on building Effective AI Agents|
 |https://huggingface.co/blog/Kseniase/mcp| blog post on MCP|
 |https://github.com/abhishekray07/claude-md-templates| Claude MD template|
+|https://openrouter.ai/| Unified interface for every model|
+|https://www.litellm.ai/| The AI gateway for platform teams|
+|code.claude.com| Calude code |
+|https://platform.openai.com/api-keys| Open AI API configs |
+|https://opencode.ai/| Alternative to claude |
+|https://ampcode.com/| Another Agentic CLI,you get $10 worth token a day |
+
 
 ## Image generating LLMs
 
